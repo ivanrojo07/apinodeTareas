@@ -1,0 +1,17 @@
+{
+  "name": "apinode",
+  "version": "1.0.0",
+  "description": "servidor de apien NodeJS y Angular",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "nodemon servidor.js"
+  },
+  "author": "ivanrojo07",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1",
+    "nodemon": "^1.11.0"
+  }
+}
